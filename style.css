@@ -1,0 +1,31 @@
+body{
+    color: azure;
+    background-color: rgb(127, 127, 252);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+header>h1{
+    text-align: center;
+}
+section{
+    background-color: #ffff;
+    color: black;
+    font-size: large;
+    line-height: 30px;
+    width: 45%;
+    height: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 25px;
+    padding-left: 15px;
+    border-radius: 15px;
+}
+footer{
+    line-height: 35px;
+    text-align: center;
+}
+#res>img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
